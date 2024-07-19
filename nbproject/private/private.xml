@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/dbConnect/DBContext.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/controller/DeleteEmployee.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/web/ListUser.jsp</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/controller/DeleteBook.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/web/ViewUser.jsp</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/controller/FeedbackUser.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/web/ListBook.jsp</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/controller/DeleteFeedback.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/controller/ViewUser.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/controller/DeleteUser.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/controller/ResetPassword.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/DAO/FeedbackDAO.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/DAO/CategoryDAO.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/web/ListEmployee.jsp</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/web/ViewCategory.jsp</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/DAO/UserDAO.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/DAO/BookDAO.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/dbConnect/TestConnection.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/src/java/controller/DeleteCategory.java</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/web/ViewFeedback.jsp</file>
+            <file>file:/D:/SUMMER%202024/PRJ%20301/ThuVien/web/Feedback.jsp</file>
+        </group>
+    </open-files>
+</project-private>
